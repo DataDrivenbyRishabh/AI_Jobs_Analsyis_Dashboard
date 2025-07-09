@@ -20,11 +20,6 @@ Built entirely in **Microsoft Excel** using:
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard Screenshot](path-to-your-dashboard-image.png)
-
----
 
 ## 🔍 Key Insights
 
